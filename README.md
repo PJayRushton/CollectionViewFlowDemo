@@ -2,14 +2,14 @@
 An example of using UICollectionViewFlowLayout to make grid style layouts
 
 ## Instructions
-1. Create a new single view project
 
 ### Initial UI Setup
+1. Create a new single view project
 1. Add a `UICollectionView` to the viewController
-2. Embed that collection view in a `UIStackView` (vertical, fill)
-3. Constrain the stack view to the superview
-4. Add an outlet to the VC
-5. Connect the datasource and delegate
+1. Embed that collection view in a `UIStackView` (vertical, fill)
+1. Constrain the stack view to the superview
+1. Add an outlet to the VC
+1. Connect the datasource and delegate
 
 ### Create a UICollectionViewCell subclass
 1. Create a subclass of `UICollectionViewCell`
